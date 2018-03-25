@@ -337,15 +337,6 @@ footer {
 	color: #ffffff;
 	min-height: 300px;
 }
-.bg-2 {
-	background: url('img/back2.jpg') no-repeat center fixed;
-    -webkit-background-size: cover;
-  	-moz-background-size: cover;
-  	-o-background-size: cover;
-  	background-size: cover;
-	color: #ffffff;
-	min-height: 300px;
-}
 .bg-3 {
 	background: url('img/back3.jpg') no-repeat center fixed;
     -webkit-background-size: cover;
