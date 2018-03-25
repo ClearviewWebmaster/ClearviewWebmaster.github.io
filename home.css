@@ -329,7 +329,7 @@ footer {
 	background-color:#1A181B;
 }
 .bg-1 {
-	background: url('img/chapter.jpg') no-repeat center fixed;
+	background: url(img/chapter.jpg) no-repeat center fixed;
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -338,7 +338,7 @@ footer {
 	min-height: 300px;
 }
 .bg-2 {
-	background: url('img/back2.jpg') no-repeat center fixed;
+	background: url(img/back2.jpg) no-repeat center fixed;
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -347,7 +347,7 @@ footer {
 	min-height: 300px;
 }
 .bg-3 {
-	background: url('img/back3.jpg') no-repeat center fixed;
+	background: url(img/back3.jpg) no-repeat center fixed;
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -356,7 +356,7 @@ footer {
 	min-height: 300px;
 }
 .bg-4 {
-	background: url('img/back4.jpg') no-repeat center fixed;
+	background: url(img/back4.jpg) no-repeat center fixed;
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -365,7 +365,7 @@ footer {
 	min-height: 300px;
 }
 .bg-5 {
-	background: url('img/back5.jpg') no-repeat center fixed;
+	background: url(img/back5.jpg) no-repeat center fixed;
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -374,7 +374,7 @@ footer {
 	min-height: 300px;
 }
 .bg-6 {
-	background: url('img/back6.jpg') no-repeat center fixed;
+	background: url(img/back6.jpg) no-repeat center fixed;
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -383,7 +383,7 @@ footer {
 	min-height: 300px;
 }
 .bg-7 {
-	background: url('img/1.jpg') no-repeat center ;
+	background: url(img/1.jpg) no-repeat center ;
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -392,7 +392,7 @@ footer {
 	min-height: 500px;	
 }
 .bg-8 {
-	background: url('img/2.jpg') no-repeat center ;
+	background: url(img/2.jpg) no-repeat center ;
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
